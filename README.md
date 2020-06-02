@@ -1,9 +1,9 @@
-# RiPDev Installer Packages
-Official RiPDev packages for iPhoneOS 2 from the defunct RiPDev Installer 4 repository.
+# Amy's Installer Packages
+Official RiPDev packages for iPhoneOS 2 from the defunct RiPDev Installer 4 repository, and anything else Amy wants to add.
 
 ##### Q: What is this?
 A: These are all the packages which were available on RiPDev's official Installer 4 repository, at the time it was shut down.
-It includes .disabled packages which either had issues or were removed for other reasons.
+It includes .disabled packages which either had issues or were removed for other reasons. I am also adding some more packages I make. Eta s0n
 
 ##### Q: Why are they in .zip?
 A: Installer 4's package format was zip.
